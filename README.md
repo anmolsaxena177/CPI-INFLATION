@@ -38,7 +38,7 @@ Identify trends in oil price change with change in inflation – identify sector
 7.	Communication: Summarize and present the insights.
 
 ## Analysis 
-<a href="https://github.com/guntassinghgs/India_CPI_Inflation/blob/main/CPI%20Inflation%20project.xlsx">Project file</a>
+<a href="https://github.com/anmolsaxena177/CPI-INFLATION/blob/main/CPI%20Inflation%20project.xlsx">Project file</a>
 
 
 # Key Insights: 
